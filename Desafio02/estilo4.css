@@ -1,0 +1,19 @@
+body{
+    font-family: "Mochiy Pop One", sans-serif;
+    background-color: #f127db;
+}
+header{
+    color: #19e60e;
+}
+h3{
+    font-family:  "Arsenal SC", sans-serif;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    line-height: 150%;
+}
+footer{
+    background-color: #19e60e;
+    color: #080201f8;
+}
