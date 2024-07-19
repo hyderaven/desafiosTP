@@ -1,0 +1,16 @@
+body{
+    font-family:  "Playwrite AR", cursive;
+    background-color: violet;
+}
+header{
+    background-color: rgb(170, 25, 100);
+    color: rgb(59, 55, 55);
+}
+h1{
+    font-family: "Milonga", serif;
+    text-align: center;
+}
+footer{
+    background-color: salmon;
+    color: rgba(43, 42, 42, 0.786);
+}
